@@ -1,9 +1,12 @@
+html body {
+  font-family: "lato", sans-serif;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #C0C0C0;
 }
 
 li {
@@ -15,7 +18,9 @@ li a {
   color: white;
   text-align: center;
   padding: 30px;
+  font-size: 20px;
   text-decoration: none;
+  background-color: #C0C0C0;
 }
 
 li a:hover {
