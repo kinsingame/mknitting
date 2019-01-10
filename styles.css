@@ -15,7 +15,6 @@ li {
 
 li a {
   display: block;
-  color: white;
   text-align: center;
   padding: 30px;
   font-size: 20px;
@@ -24,5 +23,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #lightblue;
+  background-color: lightblue !important;
 }
