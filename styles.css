@@ -28,6 +28,17 @@ li a:hover {
   background-color: lightblue !important;
 }
 
+table {
+  width: 100%;
+}
+
+img {
+    image-orientation: from-image;
+}
+
+
+
+
 .buttonimg {
-  padding: 5px;
+
 }
