@@ -33,7 +33,5 @@ table {
 }
 
 .buttonimg {
-  width: auto;
-  height: auto;
-  margin: 0px auto 0px;
+  width: 100%;
 }
