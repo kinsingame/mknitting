@@ -39,7 +39,7 @@ table {
 }
 
 .active {
-  background-color: darkblue !important;
+  background-color: blue;
 }
 
 a:hover {
@@ -60,7 +60,7 @@ a {
 }
 
 .buttonh2 {
-  margin-bottom: 0px;
+  margin-bottom: 0.1em;
   font-size: 15px;
 }
 
