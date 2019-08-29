@@ -26,6 +26,7 @@ li a {
 
 li a:hover {
   background-color: lightblue !important;
+  color: black !important;
 }
 
 table {
@@ -47,6 +48,7 @@ a:hover {
 
 td {
   width: 16.6666666667%;
+  vertical-align: top;
 }
 
 a {
@@ -58,6 +60,7 @@ a {
 }
 
 .buttonh2 {
-  margin-bottom: 1px;
-  font-size: 10px
+  margin-bottom: 0px;
+  font-size: 15px;
+  color: black;
 }
