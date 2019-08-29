@@ -17,7 +17,7 @@ li {
 li a {
   display: block;
   text-align: center;
-  padding: 30px;
+  padding: 25px;
   font-size: 20px;
   color: black;
   text-decoration: none;
@@ -39,7 +39,7 @@ table {
 }
 
 .active {
-  background-color: blue;
+  background-color: CornflowerBlue;
 }
 
 a:hover {
