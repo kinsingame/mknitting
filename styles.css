@@ -68,6 +68,6 @@ a:visited {
   color: black;
 }
 
-.mobilenav, .hidemenu {
+#mobilenav, .hidemenu {
   display: none;
 }
