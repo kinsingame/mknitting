@@ -1,12 +1,16 @@
+html body {
+  font-family: "lato", sans-serif;
+}
+
 .mobilenav{
   padding: 50px 50px;
-  margin-top: -22%;
+  margin-top: 1em;
   background-color: #C0C0C0;
   display: inline;
   position: absolute;
   font-size: 60px;
-  margin-left: 5%;
-   font-family: "Lato", sans-serif;
+  margin-left: 1em;
+  font-family: "Lato", sans-serif;
 }
 
 .hidemenu {
@@ -15,4 +19,8 @@
 
 li a {
   list-style-type: none;
+}
+
+#hideaway {
+  display: none;
 }
