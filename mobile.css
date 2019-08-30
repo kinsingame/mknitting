@@ -22,6 +22,10 @@ li a, .hidemenu {
   color: black;
 }
 
+.hidemenu {
+  font-weight: bold;
+}
+
 #hideaway {
   display: none;
   list-style-type: none;
