@@ -13,18 +13,33 @@ html body {
 }
 
 li a, .hidemenu {
-  padding: 40px 60px;
+  padding: 40px 30px;
   font-size: 60px;
   display: block;
   text-align: center;
   background-color: #C0C0C0;
+  text-decoration: none;
+  color: black;
 }
 
 #hideaway {
   display: none;
   list-style-type: none;
   position: fixed;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.buttonimg {
   width: 100%;
-  margin-top: 20px;
-  margin-left: 20px;
+  padding: 0;
+}
+
+.active {
+  background-color: CornflowerBlue;
+}
+
+table {
+  display: none;
 }
