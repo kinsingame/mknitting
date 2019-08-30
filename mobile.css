@@ -13,7 +13,7 @@ html body {
 }
 
 li a, .hidemenu {
-  padding: 40% 60%;
+  padding: 40px 60px;
   font-size: 60px;
   display: block;
   text-align: center;
@@ -25,4 +25,6 @@ li a, .hidemenu {
   list-style-type: none;
   position: fixed;
   width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
 }

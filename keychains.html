@@ -6,12 +6,17 @@
     <link rel="stylesheet" media="all and (orientation:portrait)" href="mobile.css">
   </head>
   <body>
-    <ul class="nav">
-      <li><a href="index.html">Home</a></li>
+    <h1 href="javascript:;" onClick="document.getElementById('hideaway').style.display='block'; document.getElementById('mobilenav').style.display='none'" id="mobilenav">Menu</h1>
+    <ul id="hideaway" class="nav">
+      <li class="hidemenu" href="javascript:;" onClick="document.getElementById('hideaway').style.display='none'; document.getElementById('mobilenav').style.display='block'">Hide Menu</li>
+      <li><a class="active" href="index.html">Home</a></li>
       <li><a href="animals.html">Animals</a></li>
       <li><a href="clothing.html">Clothing</a></li>
-      <li><a class="active" href="keychains.html">Keychains</a></li>
+      <li><a href="keychains.html">Keychains</a></li>
       <li><a href="everythingelse.html">Everything Else</a></li>
     </ul>
+    <div.z>
+      <br><br><br><br><br>
+    </div.z>
   </body>
 </html>
