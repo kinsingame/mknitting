@@ -21,4 +21,5 @@ li a, .hidemenu {
 #hideaway {
   display: none;
   list-style-type: none;
+  position: fixed;
 }
